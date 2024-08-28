@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "categories",
+    "title": "Katogoriler",
+    "seeAll": false
+  },
+  {
+    "id": 2,
+    "name": "introduction",
+    "title": "Tanıtım",
+    "seeAll": false
+  },
+  {
+    "id": 3,
+    "name": "bestSeller",
+    "title": "En Çok Satanlar",
+    "seeAll": true
+  },
+  {
+    "id": 4,
+    "name": "forYou",
+    "title": "Sana Özel",
+    "seeAll": true
+  }
+]
