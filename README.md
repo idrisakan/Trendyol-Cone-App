@@ -1,1 +1,1 @@
-# Trendyol-Cone-App# Trendyol-Cone-App
+# Trendyol-Clone-App
